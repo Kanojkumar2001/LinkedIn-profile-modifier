@@ -1,3 +1,4 @@
+// content.js
 
 // URL of the new profile picture
 const newProfilePictureUrl = 'https://tinyjpg.com/images/social/website.jpg';
